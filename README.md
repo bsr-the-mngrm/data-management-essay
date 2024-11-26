@@ -1,1 +1,1 @@
-# data-management-essay
+# data-management-essays
